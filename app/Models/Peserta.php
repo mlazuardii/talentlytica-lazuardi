@@ -15,6 +15,8 @@ class Peserta extends Model
         'x',
         'y',
         'z',
-        'w'
-    ]
+        'w',
+        'note_en',
+        'note_id'
+    ];
 }
